@@ -1,7 +1,3 @@
-# Lara Daifallah 1230239
-# Shatha Abualrub 1231279
-# Alaa Awashra 1230009
-
 from socket import *
 import os
 import urllib.parse  # added to safely decode values it's kind of IDE problem
